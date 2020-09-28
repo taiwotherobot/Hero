@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "67907848775",
+    "firebase_url": "https://hero-69f7c.firebaseio.com",
+    "project_id": "hero-69f7c",
+    "storage_bucket": "hero-69f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67907848775:android:94fbec839ffce98faf3f62",
+        "android_client_info": {
+          "package_name": "com.theorg.hero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67907848775-js3v8tn3n5qlgo31g9nnv6rjik98gfcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX4afbfskKodtSE1DS2Ry7cXMO5cKff7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67907848775-js3v8tn3n5qlgo31g9nnv6rjik98gfcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "67907848775-8434vmvq2fimoc5olsnh87gsqml7cbt9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.theorg.hero"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
